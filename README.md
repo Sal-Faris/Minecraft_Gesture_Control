@@ -14,7 +14,7 @@ This project leverages computer vision to allow you to control Minecraft using t
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/Minecraft_Gesture_Control.git
+    git clone https://github.com/Sal-Faris/Minecraft_Gesture_Control.git
     cd Minecraft_Gesture_Control
     ```
 
