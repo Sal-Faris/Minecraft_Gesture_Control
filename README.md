@@ -31,7 +31,23 @@ This project leverages computer vision to allow you to control Minecraft using t
     python main.py
     ```
 
-2. **Start Minecraft and Enjoy Playing with Gesture Controls!**
+2. **Start Minecraft and play with Gesture Controls**
+
+
+## To-Do
+
+- [ ] Ability to scroll through the hotbar
+- [ ] Prevent accidental inventory openings by requiring the two-finger sign for some time
+- [ ] Ability to jump
+- [ ] Require lifting only the index and middle fingers to open the inventory rather than lifting any two fingers
+
+## Contributing
+
+If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 ## Acknowledgements
