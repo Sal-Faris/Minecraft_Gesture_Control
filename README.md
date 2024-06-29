@@ -5,7 +5,7 @@ This project leverages computer vision to allow you to control Minecraft using t
 
 ## Features
 
-- **Head Pose Control:** Look around in real life to control the in-game camera.
+- **Mouse Movement:** Look around in real life to control the in-game camera.
 - **Left Click:** Close your right hand to hold the left click button (for breaking blocks and hitting).
 - **Right Click:** Touch your right hand's index finger and thumb to right-click (for placing blocks).
 - **Move Forward:** Open your left hand to press 'W' (to move forward).
