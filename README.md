@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project uses the following libraries:
 - [OpenCV](https://opencv.org/)
-- [MediaPipe](https://mediapipe.dev/)
-- [PyDirectInput](https://pydirectinput.readthedocs.io/)
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
+- [PyDirectInput](https://github.com/learncodebygaming/pydirectinput)
 
 Enjoy a new way of playing Minecraft!
