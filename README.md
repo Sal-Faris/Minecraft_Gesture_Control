@@ -1,4 +1,3 @@
-
 # Minecraft Gesture Control
 
 This project leverages computer vision to allow you to control Minecraft using the pose of your head and hand gestures.
@@ -21,7 +20,7 @@ This project leverages computer vision to allow you to control Minecraft using t
 
 2. **Install the Required Packages:**
     ```sh
-    pip install -r requirements.txt
+    pip install opencv-python mediapipe pydirectinput
     ```
 
 ## Usage
@@ -32,7 +31,6 @@ This project leverages computer vision to allow you to control Minecraft using t
     ```
 
 2. **Start Minecraft and play with Gesture Controls**
-
 
 ## To-Do
 
@@ -49,13 +47,11 @@ If you have any ideas for improvements or new features, feel free to open an iss
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-
 ## Acknowledgements
 
 This project uses the following libraries:
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
 - [PyDirectInput](https://pydirectinput.readthedocs.io/)
-
 
 Enjoy a new way of playing Minecraft!
