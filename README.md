@@ -1,14 +1,3 @@
-# Minecraft Gesture Control
-
-This code uses computer vision to allow you to play Minecraft using the pose of your head and hand gestures.
-
-### How to use
-- The pose of your head controls the mouse (eg: Looking right in real life makes the character in minecraft also look right).
-- Closing your right hand holds the left click button (to break blocks and hit things)
-- Touching your index and thumb of your right hand clicks the right click button (to place blocks)
-- Opening your left hand presses w (to move forward)
-- lifting two fingers on your left hand (✌) presses e (opens the inventory)
-
 
 # Minecraft Gesture Control
 
