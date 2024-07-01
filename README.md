@@ -38,6 +38,7 @@ This project leverages computer vision to allow you to control Minecraft using t
 - [ ] Prevent accidental inventory openings by requiring the two-finger sign for some time
 - [ ] Ability to jump
 - [ ] Require lifting only the index and middle fingers to open the inventory rather than lifting any two fingers
+- [ ] Implement GUI
 
 ## Contributing
 
