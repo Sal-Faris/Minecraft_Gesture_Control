@@ -40,10 +40,6 @@ This project leverages computer vision to allow you to control Minecraft using t
 - [ ] Require lifting only the index and middle fingers to open the inventory rather than lifting any two fingers
 - [ ] Implement GUI
 
-## Contributing
-
-If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
